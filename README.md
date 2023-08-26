@@ -7,8 +7,8 @@ Criei uma tela de login de uma plataforma que não existe, a Academypass, inspir
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- Git e Github
+- HTML
+- CSS
 
 ## 💻 Projeto
 
